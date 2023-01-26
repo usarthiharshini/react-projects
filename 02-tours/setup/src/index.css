@@ -195,7 +195,7 @@ main {
   margin-bottom: 1.5rem;
 }
 .tour-info h4 {
-  margin-bottom: 0;
+  margin-bottom: 0px;
 }
 .single-tour button {
   background: transparent;
@@ -213,6 +213,7 @@ main {
   border-radius: var(--radius);
 }
 .single-tour footer {
+ 
   padding: 1.5rem 2rem;
 }
 .single-tour .delete-btn {
