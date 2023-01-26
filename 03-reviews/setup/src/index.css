@@ -156,8 +156,12 @@ main {
   margin-right: auto;
 }
 .container {
-  width: 80vw;
-  max-width: var(--fixed-width);
+  width: 60vw;
+  
+}
+article{
+  width: 40vw;
+ 
 }
 .review {
   background: var(--clr-white);
